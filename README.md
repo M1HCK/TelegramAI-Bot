@@ -46,8 +46,6 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 OPENROUTER_API_KEY=your_openrouter_api_key
 ```
 
-> 💡 Не забудь заменить значения на свои!
-
 ### 4. Запусти бота:
 
 ```bash
